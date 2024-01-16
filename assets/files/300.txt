@@ -1,0 +1,91 @@
+
+        <Requerimiento>
+            <Codigo>01</Codigo>
+            <NaturalezaOperacion>01</NaturalezaOperacion>
+            <TipoOperacion>2</TipoOperacion>
+            <DestinoOperacion>1</DestinoOperacion>
+            <TipoEmision>01</TipoEmision>
+            <FechaEmision>2023-10-30T15:15:33</FechaEmision>
+            <RucEmisor>155680264-2-2019</RucEmisor>
+            <Establecimiento>0000</Establecimiento>
+            <Punto>001</Punto>
+            <NumeroDocumento>0</NumeroDocumento>
+            <CondicionVenta>1</CondicionVenta>
+            <TotalSinImpuestos>0.9</TotalSinImpuestos>
+            <TotalConImpuestos>0.96</TotalConImpuestos>
+            <ResumenComprobante>
+                <CodigoMoneda>USD</CodigoMoneda>
+                <TipoCambio>1</TipoCambio>
+                <TotalGravado>0.06</TotalGravado>
+                <TotalITBMS>0.06</TotalITBMS>
+                <TotalISC>0</TotalISC>
+                <TotalAcarreo>0.00</TotalAcarreo>
+                <TotalSeguro>0.00</TotalSeguro>
+                <TotalRecibido>0.96</TotalRecibido>
+                <Vuelto>0.00</Vuelto>
+                <TotalDescuentos>0</TotalDescuentos>
+                <TotalComprobante>0.96</TotalComprobante>
+            </ResumenComprobante>
+            <Impuestos>
+                <Impuesto>
+                    <CodigoImpuesto>1</CodigoImpuesto>
+                    <CodigoPorcentaje>1</CodigoPorcentaje>
+                    <Porcentaje>7</Porcentaje>
+                    <BaseImponible>0.9</BaseImponible>
+                    <Valor>0.6</Valor>
+                </Impuesto>
+            </Impuestos>
+            <Pagos>
+                <Pago>
+                    <CodigoFormaPago>02</CodigoFormaPago>
+                    <Total>0.96</Total>
+                    <Plazo>0</Plazo>
+                </Pago>
+            </Pagos>
+            <Cliente>
+                <RazonSocial>INVERSIONES CAPRI (FENIX)</RazonSocial>
+                <Direccion>RIO ABAJO ANTIGUO FENIX CALLE 103 OESTE</Direccion>
+                <TipoIdentificacion>01</TipoIdentificacion>
+                <NumeroIdentificacion>155680264-2-2019</NumeroIdentificacion>
+                <TipoCliente>2</TipoCliente>
+                <DigitoVerificador>22</DigitoVerificador>
+                <Ubicacion>
+                    <DireccionSAT>
+                        <CodigoUbicacion>3-1-1</CodigoUbicacion>
+                        <Provincia>COLÓN</Provincia>
+                        <Canton>COLÓN</Canton>
+                        <Distrito>BARRIO NORTE</Distrito>
+                    </DireccionSAT>
+                </Ubicacion>
+                <email>cobros@hielotropical.com</email>
+                <Telefono>394-8250</Telefono>
+            </Cliente>
+            <Detalles>                
+                <Detalle id="1">
+                    <Cantidad>1</Cantidad>
+                    <Descuento>0.00</Descuento>
+                    <SubTotal>0.9</SubTotal>
+                    <Producto>
+                        <Codigo>Bolsas chicas</Codigo>
+                        <Descripcion>Bolsas chicas</Descripcion>
+                        <UnidadMedida>und</UnidadMedida>
+                        <ValorUnitario>0.9</ValorUnitario>
+                    </Producto>
+                    <Impuestos>
+                        <Impuesto>
+                            <CodigoImpuesto>01</CodigoImpuesto>
+                            <CodigoPorcentaje>01</CodigoPorcentaje>
+                            <Porcentaje>7</Porcentaje>
+                            <BaseImponible>0.9</BaseImponible>
+                            <Valor>0.06</Valor>
+                        </Impuesto>
+                    </Impuestos>
+                    <InformacionAdicional>
+                        <Campo id="1">
+                            <Descripcion>dFechaFab</Descripcion>
+                            <Valor>2023-10-20</Valor>
+                        </Campo>
+                    </InformacionAdicional>
+                </Detalle>
+            </Detalles>
+        </Requerimiento>

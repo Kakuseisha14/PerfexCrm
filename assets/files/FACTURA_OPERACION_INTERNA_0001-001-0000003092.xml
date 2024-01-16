@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rRetEnviConsFe xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://dgi-fep.mef.gob.pa/wsdl/FeRecepFE">
+  <dVerForm>1.00</dVerForm>
+  <iAmb>1</iAmb>
+  <dVerApl>1.00</dVerApl>
+  <dFecProc>2023-09-24T12:45:27</dFecProc>
+  <dCodRes>0422</dCodRes>
+  <dMsgRes>Éxito en la consulta</dMsgRes>
+  <xContenFE>
+    <rContFe>
+      <dVerForm>1.00</dVerForm>
+      <xFe>
+        <rFE xmlns="http://dgi-fep.mef.gob.pa">
+          <dVerForm>1.00</dVerForm>
+          <dId>FE0120000155627441-2-2016-0900012023092400000030920010110784832370</dId>
+          <gDGen>
+            <iAmb>1</iAmb>
+            <iTpEmis>01</iTpEmis>
+            <iDoc>01</iDoc>
+            <dNroDF>0000003092</dNroDF>
+            <dPtoFacDF>001</dPtoFacDF>
+            <dSeg>078483237</dSeg>
+            <dFechaEm>2023-09-24T12:45:22-05:00</dFechaEm>
+            <iNatOp>01</iNatOp>
+            <iTipoOp>1</iTipoOp>
+            <iDest>1</iDest>
+            <iFormCAFE>3</iFormCAFE>
+            <iEntCAFE>1</iEntCAFE>
+            <dEnvFE>1</dEnvFE>
+            <iProGen>1</iProGen>
+            <dInfEmFE>Cajero: Maria Gabriela Navarro mail: user@detailspanama.com IMPRESION: True IdComprobante:23226645925971899</dInfEmFE>
+            <gEmis>
+              <gRucEmi>
+                <dTipoRuc>2</dTipoRuc>
+                <dRuc>155627441-2-2016</dRuc>
+                <dDV>09</dDV>
+              </gRucEmi>
+              <dNombEm>Details Panamá, S.A.</dNombEm>
+              <dSucEm>0001</dSucEm>
+              <dCoordEm>+8.9842,-79.5041</dCoordEm>
+              <dDirecEm>Panamá, Juan Diaz, Costa del Este, Ave Paseo del Mar</dDirecEm>
+              <gUbiEm>
+                <dCodUbi>8-8-12</dCodUbi>
+                <dCorreg>JUAN DIAZ</dCorreg>
+                <dDistr>PANAMA</dDistr>
+                <dProv>PANAMA</dProv>
+              </gUbiEm>
+              <dTfnEm>6747-1001</dTfnEm>
+              <dCorElectEmi>detailspanama@gmail.com</dCorElectEmi>
+            </gEmis>
+            <gDatRec>
+              <iTipoRec>02</iTipoRec>
+              <dNombRec>BLANCA  SALERNO</dNombRec>
+              <dDirecRec>Av. Balboa</dDirecRec>
+              <gUbiRec>
+                <dCodUbi>8-8-6</dCodUbi>
+                <dCorreg>BETANIA</dCorreg>
+                <dDistr>PANAMA</dDistr>
+                <dProv>PANAMA</dProv>
+              </gUbiRec>
+              <dTfnRec>6616-3437</dTfnRec>
+              <cPaisRec>PA</cPaisRec>
+            </gDatRec>
+          </gDGen>
+          <gItem>
+            <dSecItem>0001</dSecItem>
+            <dDescProd>Prod-1</dDescProd>
+            <dCodProd>5614</dCodProd>
+            <dCantCodInt>1</dCantCodInt>
+            <gPrecios>
+              <dPrUnit>30.00</dPrUnit>
+              <dPrItem>30.00</dPrItem>
+              <dValTotItem>32.10</dValTotItem>
+            </gPrecios>
+            <gITBMSItem>
+              <dTasaITBMS>01</dTasaITBMS>
+              <dValITBMS>2.10</dValITBMS>
+            </gITBMSItem>
+          </gItem>
+          <gItem>
+            <dSecItem>0002</dSecItem>
+            <dDescProd>Prod-2</dDescProd>
+            <dCodProd>5614</dCodProd>
+            <dCantCodInt>1</dCantCodInt>
+            <gPrecios>
+              <dPrUnit>29.00</dPrUnit>
+              <dPrItem>29.00</dPrItem>
+              <dValTotItem>31.03</dValTotItem>
+            </gPrecios>
+            <gITBMSItem>
+              <dTasaITBMS>01</dTasaITBMS>
+              <dValITBMS>2.03</dValITBMS>
+            </gITBMSItem>
+          </gItem>
+          <gItem>
+            <dSecItem>0003</dSecItem>
+            <dDescProd>Prod-3</dDescProd>
+            <dCodProd>5614</dCodProd>
+            <dCantCodInt>1</dCantCodInt>
+            <gPrecios>
+              <dPrUnit>108.00</dPrUnit>
+              <dPrItem>108.00</dPrItem>
+              <dValTotItem>115.56</dValTotItem>
+            </gPrecios>
+            <gITBMSItem>
+              <dTasaITBMS>01</dTasaITBMS>
+              <dValITBMS>7.56</dValITBMS>
+            </gITBMSItem>
+          </gItem>
+          <gTot>
+            <dTotNeto>167.00</dTotNeto>
+            <dTotITBMS>11.69</dTotITBMS>
+            <dTotGravado>11.69</dTotGravado>
+            <dVTot>178.69</dVTot>
+            <dTotRec>178.69</dTotRec>
+            <iPzPag>1</iPzPag>
+            <dNroItems>3</dNroItems>
+            <dVTotItems>178.69</dVTotItems>
+            <gFormaPago>
+              <iFormaPago>02</iFormaPago>
+              <dVlrCuota>178.69</dVlrCuota>
+            </gFormaPago>
+          </gTot>
+          <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+              <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" />
+              <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+              <Reference URI="">
+                <Transforms>
+                  <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                  <Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" />
+                </Transforms>
+                <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+                <DigestValue>xP7jbLDiU2FRtPOHGKN7CKgyukS3K56X9ushXMNC3Qc=</DigestValue>
+              </Reference>
+            </SignedInfo>
+            <SignatureValue>xdbyGoJT+pYy2iLCSqLBSS8IYIHe0XK60zjUlnyZFPtWAjia5ZeRnUK8M4r9TuBY86ZdjcPr0KpGZEVNx8jDOAl7ufoS/SmgGQNiL9hr26WFl68ZwD51YaYFfqihWLlpa9Qa9b3eKDRlbzZ1jBjLL5cH98RBfhnlhBBoUGLwo5A2xxeGFVmds/LLEs7JLfwk+mT7A1adJpH5NOh69WWlkPCIfGTKSUyUdpMJ3j81675TgEd6y0XEdNhlCswL/JA41wr58YxT0O1df17zH/4N0XX9Cga6CbOvXZ9/1sZOBFnegcE1OIRi6khlc3f+cAXo64wQ4qZXj4dKC44640Kx4w==</SignatureValue>
+            <KeyInfo>
+              <X509Data>
+                <X509SubjectName>CN=[A] DETAILS PANAMA S A - 155627441-2-2016 - 60 - HERNANDEZ PAEZ OSCAR JAVIER, OU=FACTURA ELECTRONICA, O=FIRMA ELECTRONICA, C=PA</X509SubjectName>
+                <X509Certificate>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</X509Certificate>
+              </X509Data>
+            </KeyInfo>
+          </Signature>
+          <gNoFirm>
+            <dQRCode><![CDATA[https://dgi-fep.mef.gob.pa/Consultas/FacturasPorQR?chFE=FE0120000155627441-2-2016-0900012023092400000030920010110784832370&iAmb=1&digestValue=xP7jbLDiU2FRtPOHGKN7CKgyukS3K56X9ushXMNC3Qc=&jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaEZFICI6IkZFMDEyMDAwMDE1NTYyNzQ0MS0yLTIwMTYtMDkwMDAxMjAyMzA5MjQwMDAwMDAzMDkyMDAxMDExMDc4NDgzMjM3MCIsImlBbWIiOiIxIiwiZGlnZXN0VmFsdWUiOiJ4UDdqYkxEaVUyRlJ0UE9IR0tON0NLZ3l1a1MzSzU2WDl1c2hYTU5DM1FjPSJ9.9yVpLDcIByB379_Jf1kp2vHDYkY_HQGIXiCx-xQ03_k]]></dQRCode>
+          </gNoFirm>
+        </rFE>
+      </xFe>
+      <xProtFe>
+        <rProtFe xmlns="">
+          <dVerForm>1.00</dVerForm>
+          <gInfProt>
+            <dId>ID0000155680264-2-201900000020230007418243</dId>
+            <iAmb>1</iAmb>
+            <dVerApl>1.00</dVerApl>
+            <dCUFE>FE0120000155627441-2-2016-0900012023092400000030920010110784832370</dCUFE>
+            <dFecProc>2023-09-24T12:45:26</dFecProc>
+            <dProtAut>0000155680264-2-201900000020230007418243</dProtAut>
+            <dDigVal>xP7jbLDiU2FRtPOHGKN7CKgyukS3K56X9ushXMNC3Qc=</dDigVal>
+            <gResProc>
+              <dCodRes>2007</dCodRes>
+              <dMsgRes>Item 0001: No informado ningún código de producto en la Codificación Panameña de Bienes y Servicios</dMsgRes>
+            </gResProc>
+            <gResProc>
+              <dCodRes>2007</dCodRes>
+              <dMsgRes>Item 0002: No informado ningún código de producto en la Codificación Panameña de Bienes y Servicios</dMsgRes>
+            </gResProc>
+            <gResProc>
+              <dCodRes>2007</dCodRes>
+              <dMsgRes>Item 0003: No informado ningún código de producto en la Codificación Panameña de Bienes y Servicios</dMsgRes>
+            </gResProc>
+            <gResProc>
+              <dCodRes>0260</dCodRes>
+              <dMsgRes>Autorizado el uso de la FE</dMsgRes>
+            </gResProc>
+          </gInfProt>
+          <Signature />
+        </rProtFe>
+      </xProtFe>
+      <xContEv>
+        <rContEv>
+          <dVerForm>1</dVerForm>
+          <xEvento>
+            <rProtFe xmlns="">
+              <dVerForm>1.00</dVerForm>
+              <gInfProt>
+                <dId>ID0000155680264-2-201900000020230007418243</dId>
+                <iAmb>1</iAmb>
+                <dVerApl>1.00</dVerApl>
+                <dCUFE>FE0120000155627441-2-2016-0900012023092400000030920010110784832370</dCUFE>
+                <dFecProc>2023-09-24T12:45:26</dFecProc>
+                <dProtAut>0000155680264-2-201900000020230007418243</dProtAut>
+                <dDigVal>xP7jbLDiU2FRtPOHGKN7CKgyukS3K56X9ushXMNC3Qc=</dDigVal>
+                <gResProc>
+                  <dCodRes>0001</dCodRes>
+                  <dMsgRes>FE Autorizada</dMsgRes>
+                </gResProc>
+              </gInfProt>
+              <Signature />
+            </rProtFe>
+          </xEvento>
+        </rContEv>
+      </xContEv>
+    </rContFe>
+  </xContenFE>
+</rRetEnviConsFe>
